@@ -4,7 +4,6 @@ I'm Foromo Daniel Soromou!
 
 🎓 **Education:**
 - Bachelor's Degree from Polytechnique Montreal Engineering School.
-- Upcoming graduate student in Cybersecurity at New York University Tandon School of Engineering.
 
 👨‍💻 **Professional Experience:**
 - Software Engineer at Microsoft.
@@ -27,7 +26,7 @@ I'm Foromo Daniel Soromou!
 - I enjoy challenging myself with the hardest levels of video games. 
 
 🔍 **Future Goals:**
-- Aspiring to be a Cybersecurity Research Scientist.
+- TBD
 
 ❗ **Note:** 
 - Currently, I am not looking for job opportunities.
