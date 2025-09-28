@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Foromo Daniel Soromou  
 
 ⚡ **Engineer at heart. Hacker by spirit. Dreamer of futures.**  
-I build software that touches **billions of people every day**, from platforms almost every adult on Earth uses  
+I build software that touches **billions of people every day**, from a platform that almost every adult on Earth uses  
 to contributing to a **Nobel Prize breakthrough project in AI and science**.  
 
 
