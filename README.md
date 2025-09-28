@@ -1,13 +1,13 @@
 # Hi there 👋, I'm Foromo Daniel Soromou  
 
 ⚡ **Engineer at heart. Hacker by spirit. Dreamer of futures.**  
-I build software that touches **billions of people every day** — from the platforms almost every adult on Earth uses,  
+I build software that touches **billions of people every day**, from the platforms almost every adult on Earth uses,  
 to contributing to **Nobel Prize–recognized breakthroughs in AI and science**.  
 
 
 
 ### 🪖 Aka *caporalcoder*  
-> *“A caporal is always learning — never done, never static. That’s how I code, that’s how I live.”*  
+> *“A caporal is always learning, never done, never static. That’s how I code, that’s how I live.”*  
 
 I go by **caporalcoder** in the dev world:  
 - Always on the **frontlines of knowledge**, picking up new tools and frameworks like a soldier sharpening skills.  
@@ -18,12 +18,12 @@ I go by **caporalcoder** in the dev world:
 
 ### 🧑‍💻 Who Am I?
 - 🛠️ **Software Engineer** obsessed with performance, scale, and elegance in code.  
-- 🔭 Always on the edge of what’s next — from **multimodal LLMs** to **agentic automation**.  
+- 🔭 Always on the edge of what’s next, from **multimodal LLMs** to **agentic automation**.  
 
 
 
 ### ⚙️ Tech Philosophy
-> *“Code isn’t just instructions — it’s the closest thing we have to magic.”*  
+> *“Code isn’t just instructions, it’s the closest thing we have to magic.”*  
 - 🐉 Crafting **clean C++ & Python spells** that bend machines to my will.  
 - 🕹️ Lover of **competitive programming**, algorithmic puzzles, and systems that hum at scale.  
 - 🧩 Deep belief in **open knowledge, geek culture, and tech as an amplifier of humanity**.  
